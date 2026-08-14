@@ -3,6 +3,10 @@
   "description": "The best Punjabi duets, refreshed weekly.",
   "tracklist": [
     {
+      "title": "Say Sira",
+      "artists": "Dilpreet Dhillon, Kiran Bajwa"
+    },
+    {
       "title": "Kala Doriya",
       "artists": "Parmish Verma, Kiran Bajwa, SickBoi"
     },
@@ -11,12 +15,12 @@
       "artists": "Navaan Sandhu, Shai, Daaku"
     },
     {
-      "title": "White Brown Black",
-      "artists": "Avvy Sra, Karan Aujla, Jaani"
-    },
-    {
       "title": "Naare Ni",
       "artists": "Amrit Basra"
+    },
+    {
+      "title": "White Brown Black",
+      "artists": "Avvy Sra, Karan Aujla, Jaani"
     },
     {
       "title": "Don",
@@ -27,12 +31,12 @@
       "artists": "Shree Brar, Gurlej Akhtar"
     },
     {
-      "title": "firey hassdi",
-      "artists": "The Landers, Karam Brar, GXRI, Geet"
-    },
-    {
       "title": "Killa Mode",
       "artists": "Amrit Basra"
+    },
+    {
+      "title": "firey hassdi",
+      "artists": "The Landers, Karam Brar, GXRI, Geet"
     },
     {
       "title": "Regal",
@@ -69,10 +73,6 @@
     {
       "title": "Routine",
       "artists": "Gur Sidhu, Jasmine Sandlas, Kaptaan"
-    },
-    {
-      "title": "Defendraa",
-      "artists": "Mahla Kot, Gurlej Akhtar, Kulshan Sandhu"
     },
     {
       "title": "Ainka",
