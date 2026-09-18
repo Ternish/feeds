@@ -23,16 +23,20 @@
       "artists": "Avvy Sra, Karan Aujla, Jaani"
     },
     {
+      "title": "Mehak Chandigarh Di",
+      "artists": "Pardeep Sran, Jasmeen Akhtar, Gaiphy, Arsh Sidhu"
+    },
+    {
       "title": "Don",
       "artists": "Jot Sidhu, Jasmeen Akhtar, Jugnu"
     },
     {
-      "title": "Kanpati 2",
-      "artists": "Kotti, Akash Rana, Ritu Jass"
-    },
-    {
       "title": "Killa Mode",
       "artists": "Amrit Basra"
+    },
+    {
+      "title": "Kanpati 2",
+      "artists": "Kotti, Akash Rana, Ritu Jass"
     },
     {
       "title": "Tere Jatt De",
@@ -40,7 +44,7 @@
     },
     {
       "title": "Ki Lagda Tera?",
-      "artists": "Khushi Pandher, Savi Nain"
+      "artists": "Khushi Pandher, Honey Dhillon, Savi Nain"
     },
     {
       "title": "Sarkar Da Jawai",
@@ -61,10 +65,6 @@
     {
       "title": "Eye Sign",
       "artists": "Himmat Sandhu, Preet Hundal, Kahlon, Gurlej Akhtar"
-    },
-    {
-      "title": "Can't Be Us",
-      "artists": "Prem Dhillon, Sudesh Kumari, The Kidd"
     },
     {
       "title": "Pecha",
@@ -107,6 +107,10 @@
       "artists": "Guri, Simar Kaur, Chobbxr"
     },
     {
+      "title": "LALA LALA",
+      "artists": "Jasmine Sandlas, Amrit Maan, Mofusion"
+    },
+    {
       "title": "Adawa",
       "artists": "Varinder Brar, Deedar Kaur, Gill Saab Music"
     },
@@ -145,10 +149,6 @@
     {
       "title": "Piche Piche",
       "artists": "Navjot Fazalwal, Gurlej Akhtar, Gur Sidhu"
-    },
-    {
-      "title": "Rees",
-      "artists": "Ravneet"
     }
   ]
 }
