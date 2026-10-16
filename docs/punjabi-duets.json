@@ -3,6 +3,10 @@
   "description": "The best Punjabi duets, refreshed weekly.",
   "tracklist": [
     {
+      "title": "Brabus",
+      "artists": "Parmish Verma, Kiran Bajwa, Starboy X"
+    },
+    {
       "title": "Say Sira",
       "artists": "Dilpreet Dhillon, Kiran Bajwa"
     },
@@ -11,12 +15,12 @@
       "artists": "Parmish Verma, Kiran Bajwa, SickBoi"
     },
     {
-      "title": "Yaara ve yaara",
-      "artists": "Navaan Sandhu, Shai, Daaku"
-    },
-    {
       "title": "Naare Ni",
       "artists": "Amrit Basra"
+    },
+    {
+      "title": "Yaara ve yaara",
+      "artists": "Navaan Sandhu, Shai, Daaku"
     },
     {
       "title": "White Brown Black",
@@ -27,12 +31,12 @@
       "artists": "Pardeep Sran, Jasmeen Akhtar, Gaiphy, Arsh Sidhu"
     },
     {
-      "title": "Don",
-      "artists": "Jot Sidhu, Jasmeen Akhtar, Jugnu"
-    },
-    {
       "title": "Killa Mode",
       "artists": "Amrit Basra"
+    },
+    {
+      "title": "Don",
+      "artists": "Jot Sidhu, Jasmeen Akhtar, Jugnu"
     },
     {
       "title": "Kanpati 2",
@@ -51,10 +55,6 @@
       "artists": "Shree Brar, Gurlej Akhtar"
     },
     {
-      "title": "Firey Hassdi",
-      "artists": "The Landers, Karam Brar, GXRI, Geet"
-    },
-    {
       "title": "Regal",
       "artists": "Simran Raj, R Nait"
     },
@@ -69,10 +69,6 @@
     {
       "title": "Pecha",
       "artists": "Korala Maan, Gurlej Akhtar"
-    },
-    {
-      "title": "Routine",
-      "artists": "Gur Sidhu, Jasmine Sandlas, Kaptaan"
     },
     {
       "title": "Ainka",
@@ -149,6 +145,10 @@
     {
       "title": "Piche Piche",
       "artists": "Navjot Fazalwal, Gurlej Akhtar, Gur Sidhu"
+    },
+    {
+      "title": "Rees",
+      "artists": "Ravneet"
     }
   ]
 }
